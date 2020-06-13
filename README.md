@@ -1,2 +1,0 @@
-# CodeSB
-Created with CodeSandbox
